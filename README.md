@@ -91,3 +91,5 @@ Business Recommendations:
 Develop targeted marketing campaigns for the 26-35 age group.
 Focus on expanding offerings in City Category B to capitalize on its purchasing power.
 Personalize promotions based on demographic data to increase average spend per user.
+https://www.kaggle.com/code/senaabasz/notebookafacccaea8
+
